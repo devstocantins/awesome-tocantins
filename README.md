@@ -10,8 +10,8 @@ Uma lista coraborativa de projetos e API's desenvolvidas no Tocantins. Sinta-se 
 
 ## Softwares Governamentais
 
-* [Solar](https://solar.defensoria.to.def.br) - ([Defensoria Pública do Estado do Tocantins](http://defensoria.to.def.br)) - Plataforma completa para atendimento e acompanhamento processual ao assistido para Defensorias Públicas.
-* [Luna](https://luna.defensoria.to.def.br) - ([Defensoria Pública do Estado do Tocantins](http://defensoria.to.def.br)) - Chatbot para agendamentos e consultas à atendimentos para Defensorias Públicas que utilizam o Solar via [Facebook Messenger](https://m.me/DefensoriaTO).
+* [Solar](https://solar.defensoria.to.def.br) - ([DPE-TO](http://defensoria.to.def.br)) - Plataforma completa para atendimento e acompanhamento processual ao assistido para Defensorias Públicas.
+* [Luna](https://luna.defensoria.to.def.br) - ([DPE-TO](http://defensoria.to.def.br)) - Chatbot para agendamentos e consultas à atendimentos para Defensorias Públicas que utilizam o Solar via [Facebook Messenger](https://m.me/DefensoriaTO).
 
 ## API's Governamentais
 
