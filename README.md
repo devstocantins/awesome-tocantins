@@ -18,7 +18,7 @@ Uma lista coraborativa de projetos e API's desenvolvidas no Tocantins. Sinta-se 
 ## API's Governamentais
 
 * [DOE](https://diariooficial.to.gov.br/api.json) - Diário Oficial do Tocantins
-* [API-IITO] (https://apitestes.iito.ssp.to.gov.br/login) - API RESTRITA, Utilizada para consulta de informações de pessoa civil e criminal. Acesso às informações básicas como: Nome, rg, cpf, filiação, processos criminais, se há manda de prisão contra a pessoa consulta, fotos criminais, impressões digitais etc. Por conter dados sensíveis, o acesso é restrito aos órgãos que possuem autorização expedida pelo Secretário da Segurança Pública. A solicitação de acesso poderá ser feita junto ao Instituto de Identificação do Tocantins.
+* [API-IITO](https://apitestes.iito.ssp.to.gov.br/login) - API RESTRITA, Utilizada para consulta de informações de pessoa civil e criminal. Acesso às informações básicas como: Nome, rg, cpf, filiação, processos criminais, se há manda de prisão contra a pessoa consulta, fotos criminais, impressões digitais etc. Por conter dados sensíveis, o acesso é restrito aos órgãos que possuem autorização expedida pelo Secretário da Segurança Pública. A solicitação de acesso poderá ser feita junto ao Instituto de Identificação do Tocantins.
 
 
 
