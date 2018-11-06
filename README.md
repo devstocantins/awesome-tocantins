@@ -10,7 +10,7 @@ Uma lista coraborativa de projetos e API's desenvolvidas no Tocantins. Sinta-se 
 
 ## Softwares Governamentais
 
-* [Solar](https://solar.defensoria.to.def.br) - Plataforma para atendimento ao assistido para Defensorias Públicasurity
+* [Solar](https://solar.defensoria.to.def.br) - ([Defensoria Pública do Estado do Tocantins](http://defensoria.to.def.br)) - Plataforma para atendimento ao assistido para Defensorias Públicas.
 
 ## API's Governamentais
 
