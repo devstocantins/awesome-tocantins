@@ -15,7 +15,7 @@ Uma lista coraborativa de projetos e API's desenvolvidas no Tocantins. Sinta-se 
 
 ## API's Governamentais
 
-[DOE] https://diariooficial.to.gov.br/api.json - Diário Oficial do Tocantins
+* [DOE](https://diariooficial.to.gov.br/api.json) - Diário Oficial do Tocantins
 
 
 ## Softwares Empresariais
