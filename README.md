@@ -1,8 +1,6 @@
 # Awesome Tocantins [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-
-Uma lista colaborativa de projetos e API's desenvolvidas no Tocantins. Sinta-se livre para contribuir para essa fantástica lista.
-
+Uma lista coraborativa de projetos e API's desenvolvidas no Tocantins. Sinta-se livre para contribuir para essa fantástica lista.
 
 * [Softwares Governamentais](#softwares-governamentais)
 * [API's Governamentais](#apis-governamentais)
@@ -17,7 +15,7 @@ Uma lista colaborativa de projetos e API's desenvolvidas no Tocantins. Sinta-se 
 
 ## API's Governamentais
 
-* [Demo](http://demo.org/) - Just a demo
+[DOE] https://diariooficial.to.gov.br/api.json - Diário Oficial do Tocantins
 
 
 ## Softwares Empresariais
@@ -30,7 +28,7 @@ Uma lista colaborativa de projetos e API's desenvolvidas no Tocantins. Sinta-se 
 
 ## Eventos
 
-* [Meetups DevTO](http://https://goo.gl/G0xsvF) - Evento com palestras organizadas pela Comunidade de Desenvolvedores do Tocantins. Edições: 2017
+* [Meetups DevTO](http://https://goo.gl/G0xsvF) - Evento com palestras organizados pela Comunidade de Desenvolvedores do Tocantins. Edições: 2017
 
 ## License
 
