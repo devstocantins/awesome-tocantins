@@ -1,6 +1,6 @@
 # Awesome Tocantins [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-Uma lista coraborativa de projetos e API's desenvolvidas no Tocantins. Sinta-se livre para contribuir para essa fantástica lista.
+Uma lista coraborativa de projetos e API's desenvolvidas no Tocantins. Sinta-se livre para contrubuir para essa fantstica lista.
 
 * [Softwares Governamentais](#softwares-governamentais)
 * [API's Governamentais](#apis-governamentais)
@@ -10,11 +10,12 @@ Uma lista coraborativa de projetos e API's desenvolvidas no Tocantins. Sinta-se 
 
 ## Softwares Governamentais
 
-* [Solar](https://solar.defensoria.to.def.br) - ([Defensoria Pública do Estado do Tocantins](http://defensoria.to.def.br)) - Plataforma completa para atendimento e acompanhamento processual ao assistido para Defensorias Públicas.
+* [Solar](https://solar.defensoria.to.def.br) - ([Defensoria Pública do Estado do Tocantins](http://defensoria.to.def.br)) - Plataforma para atendimento ao assistido para Defensorias Públicas.
 
 ## API's Governamentais
 
 * [Demo](http://demo.org/) - Just a demo
+https://diariooficial.to.gov.br/api.json -  Diário Oficial do Tocantins
 
 
 ## Softwares Empresariais
