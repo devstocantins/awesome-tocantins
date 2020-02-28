@@ -33,7 +33,7 @@ Uma lista colaborativa de projetos e API's desenvolvidas no Tocantins. Sinta-se 
 
 ## Eventos
 
-* [Meetups DevTO](http://https://goo.gl/G0xsvF) - Evento com palestras organizados pela Comunidade de Desenvolvedores do Tocantins. Edições: 2017
+* [Meetups DevTO](https://goo.gl/G0xsvF) - Evento com palestras organizados pela Comunidade de Desenvolvedores do Tocantins. Edições: 2017
 
 ## License
 
